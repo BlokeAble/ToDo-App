@@ -1,2 +1,0 @@
-# ToDo-App
-MEAN framework 
